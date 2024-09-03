@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Space.BrokerService": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56388;http://localhost:56389"
+    }
+  }
+}
